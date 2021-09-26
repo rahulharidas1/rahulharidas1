@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rahul.
 #### I am a mobile application developer.
-![I am a mobile application developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a mobile application developer.]
 
 I am currently a student with the zeal for problem solving and developing cross-platform mobile applications. 
 
