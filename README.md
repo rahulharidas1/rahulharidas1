@@ -4,9 +4,9 @@
 
 I am currently a student with the zeal for problem solving and developing cross-platform mobile applications. 
 
-Skills: Flutter, Dart, C++, HTML,CSS,Git
+Skills: Flutter, Dart, C++, HTML, CSS, Git
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahulharidas1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-haridas/)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-haridas/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulharidas1)](https://github.com/anuraghazra/github-readme-stats)
 
