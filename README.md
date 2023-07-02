@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Rahul.
 #### I am a mobile application developer.
 
-I am currently a student with the zeal for problem solving and developing cross-platform mobile applications. 
+I am an android developer with the zeal for problem solving and developing native android applications. 
 
-Skills: Flutter, Dart, C++, HTML, CSS, Git
+Skills: Android, Java, Kotlin, Flutter, Dart, C++, HTML, CSS, Git
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-haridas/)  
 
