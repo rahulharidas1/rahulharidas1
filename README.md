@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Rahul.
-#### I am a mobile application developer.
 
 I am an android developer with the zeal for problem solving and developing native android applications. 
 
