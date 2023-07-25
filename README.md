@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rahul.
 
-I am an android developer with the zeal for problem solving and developing native android applications. 
+I am an android developer with the zeal for problem solving and developing native mobile applications. 
 
 Skills: Android, Java, Kotlin, Flutter, Dart, C++, HTML, CSS, Git
 
