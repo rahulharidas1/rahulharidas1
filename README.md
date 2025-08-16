@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Rahul.
 
-I am an android developer with the zeal for problem solving and developing native mobile applications. 
+I’m a backend developer with a passion for problem-solving and building scalable applications. 
 
-Skills: Android, Java, Kotlin, Flutter, Dart, C++, HTML, CSS, Git
+Skills: Java, Spring Boot, Spring Data JPA, MySQL, Apache Kafka, Redis, Android, Git, Linux
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-haridas/)  
 
